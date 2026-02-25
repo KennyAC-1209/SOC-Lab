@@ -14,6 +14,12 @@ Demonstrated end-to-end SIEM and SOAR operations, reflecting practical skills in
 defense, and cloud security monitoring.
 <br />
 
+<h2>Utilities Used</h2>
+
+- <b>Microsoft Azure</b> 
+- <b>FortiGate NGFW</b>
+- <b>Windows 10</b>
+- <b>Linux</b>
 
 <h2>Lab walk-through:</h2>
 
